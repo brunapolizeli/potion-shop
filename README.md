@@ -81,3 +81,9 @@ potion-shop/
 Potion icons created by [Magnific - Flaticon](https://www.flaticon.com/free-icons/potion "potion icons").
 
 Banner, moon, book, and favicon artwork generated with ChatGPT. Button, phone, and coin icons generated with Claude.
+
+---
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share, and adapt for non-commercial purposes, with attribution.
