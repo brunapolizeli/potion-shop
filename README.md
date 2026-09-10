@@ -1,3 +1,5 @@
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+
 # Potion Shop
 
 An interactive potion shop rendered as an open spellbook, with a responsive layout, dynamic cart, and checkout flow.
