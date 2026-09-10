@@ -4,6 +4,8 @@
 
 An interactive potion shop rendered as an open spellbook, with a responsive layout, dynamic cart, and checkout flow.
 
+[**Live Demo — potion-shop-three.vercel.app**](https://potion-shop-three.vercel.app/)
+
 ---
 
 ## Project Overview
