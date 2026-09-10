@@ -4,7 +4,7 @@
 
 Uma loja interativa de poções apresentada como um grimório aberto, com layout responsivo, carrinho dinâmico e fluxo de checkout.
 
-[**Demo ao vivo — potion-shop-app.vercel.app**](potion-shop-app.vercel.app)
+[**Demo ao vivo: potion-shop-app.vercel.app**](potion-shop-app.vercel.app)
 
 ---
 
