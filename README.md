@@ -2,85 +2,69 @@
 
 # Potion Shop
 
-An interactive potion shop rendered as an open spellbook, with a responsive layout, dynamic cart, and checkout flow.
+An interactive potion shop presented as an open spellbook, featuring a responsive layout, dynamic cart, and checkout flow.
 
-[**Live Demo — potion-shop-three.vercel.app**](https://potion-shop-three.vercel.app/)
+[**Live Demo — potion-shop-app.vercel.app**](potion-shop-app.vercel.app)
 
 ---
 
 ## Project Overview
 
-Potion Shop began as a straightforward mobile menu app, built as part of the Scrimba Full Stack Path and based on a [restaurant menu Figma design](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1) used as a starting reference. All HTML, CSS, and JavaScript were written independently from scratch, connecting a JavaScript data array to the DOM and keeping structure, style, and logic cleanly separated.
+Potion Shop is a solo frontend project built from scratch with HTML, CSS, and vanilla JavaScript.
 
-The layout was later redesigned as an open spellbook spread: a decision made to suit the theme, and one that removed the need for scrolling by placing the menu and the cart on facing pages. A closed book cover now serves as the landing screen, opening to reveal the spread on click. The layout scales responsively with viewport width, with a landscape-only prompt shown on narrow portrait screens where the spread wouldn't fit comfortably.
+The project was redesigned into an open spellbook interface with a custom fantasy theme, responsive layout, dynamic cart, and checkout flow.
 
 ---
 
 ## Features
 
-- Menu items (potions) rendered dynamically from a JavaScript data array
-- Each item displays icon, name, ingredients, and price
-- Add-to-cart functionality via a "+" button on each item
-- Cart tracks selected items and quantity, rendered dynamically on the right-hand page
-- Decrease quantity or remove items from the cart via minus and trash buttons
-- Cart displays running total price
-- Cart persists across page reloads using localStorage
-- Checkout modal with card details form, opened via a "Complete order" button and dismissed by clicking outside or the close button
-- Order confirmation message displayed after payment, personalised with the customer's name
-- Rotate-device prompt for narrow portrait screens, replacing the book layout with a landscape-only message
-- Responsive book layout scaling with viewport width (vw/aspect-ratio) instead of fixed pixel dimensions
-- Input validation for name, card number, and CVV with custom error messages
-- Custom focus states on the card details inputs, matching the app's palette
+- Potion menu rendered dynamically from JavaScript data
+- Add, decrease, and remove cart items
+- Running total and cart persistence with localStorage
+- Checkout modal with input validation
+- Personalized order confirmation
+- Interactive book cover landing screen
+- Responsive spellbook layout
+- Landscape prompt for narrow portrait screens
+- Custom visual effects and focus states
 
 ---
 
 ## Project Structure
 
-```
+```text
 potion-shop/
 ├── assets/
 │   ├── buttons/
-│   │   ├── add-button.png
-│   │   ├── minus-button.png
-│   │   └── trash-button.png
 │   ├── cursors/
-│   │   ├── cursor-arrow.png
-│   │   └── cursor-pointer.png
-│   ├── icons/
-│   │   ├── bottle-health.png
-│   │   ├── bottle-mana.png
-│   │   ├── bottle-stamina.png
-│   │   ├── coin-icon.png
-│   │   └── phone-icon.png
-│   ├── banner.png
-│   ├── book-bg.png
-│   ├── book-cover.png
-│   ├── favicon.png
-│   └── moon-image.png
+│   └── icons/
 ├── data.js
 ├── effects.js
 ├── index.css
 ├── index.html
 ├── index.js
-└── README.md
+├── README.md
+└── README.pt-BR.md
 ```
 
 ---
 
-## Technologies Used
+## Technologies
 
 - HTML5
 - CSS3
-  - Flexbox
-  - Animations and keyframes
-  - Responsive design (media queries, viewport units)
 - JavaScript (vanilla)
-  - DOM manipulation & event delegation
-  - LocalStorage persistence
+- Flexbox
+- Responsive design
+- DOM manipulation
+- Event delegation
+- localStorage
 
 ---
 
 ## Credits
+
+The project was built from scratch based on a Scrimba project prompt and [Figma reference](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1), which provided the initial frontend concept and layout reference. All implementation and subsequent design decisions were developed independently.
 
 Potion icons created by [Magnific - Flaticon](https://www.flaticon.com/free-icons/potion "potion icons").
 
@@ -90,4 +74,4 @@ Banner, moon, book, and favicon artwork generated with ChatGPT. Button, phone, a
 
 ## License
 
-This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share, and adapt for non-commercial purposes, with attribution.
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share, and adapt for non-commercial purposes, with attribution.
