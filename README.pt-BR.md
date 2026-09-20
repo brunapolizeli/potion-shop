@@ -4,15 +4,15 @@
 
 Uma loja interativa de poções apresentada como um grimório aberto, com layout responsivo, carrinho dinâmico e fluxo de checkout.
 
-[**Demo ao vivo: potion-shop-app.vercel.app**](potion-shop-app.vercel.app)
+[**Demo ao vivo: potion-shop-app.vercel.app**](https://potion-shop-app.vercel.app)
 
 ---
 
 ## Visão Geral do Projeto
 
-Potion Shop é um projeto frontend individual desenvolvido do zero com HTML, CSS e JavaScript vanilla.
+Potion Shop é um projeto frontend desenvolvido com HTML, CSS e JavaScript vanilla.
 
-O projeto foi redesenhado como uma interface de grimório aberto, com tema de fantasia próprio, layout responsivo, carrinho dinâmico e fluxo de checkout.
+O projeto foi desenvolvido primeiro como um app mobile e, depois, redesenhado como uma interface de grimório aberto, com tema de fantasia próprio, layout responsivo, carrinho dinâmico e fluxo de checkout.
 
 ---
 
@@ -49,7 +49,7 @@ potion-shop/
 
 ---
 
-## Tecnologias
+## Tecnologias e Conceitos
 
 - HTML5
 - CSS3
@@ -64,7 +64,7 @@ potion-shop/
 
 ## Créditos
 
-O projeto foi desenvolvido do zero com base em um prompt de projeto e uma [referência Figma](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1) da Scrimba, que forneceram o conceito inicial do frontend e uma referência de layout. Toda a implementação e as decisões posteriores de design foram desenvolvidas de forma independente.
+O projeto foi desenvolvido do zero com base em um prompt de projeto e uma [referência Figma](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1) da Scrimba, que forneceram o conceito inicial do frontend e uma referência de layout.
 
 Ícones das poções criados por [Magnific - Flaticon](https://www.flaticon.com/free-icons/potion "potion icons").
 

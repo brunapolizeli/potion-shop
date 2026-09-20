@@ -4,15 +4,15 @@
 
 An interactive potion shop presented as an open spellbook, featuring a responsive layout, dynamic cart, and checkout flow.
 
-[**Live Demo: potion-shop-app.vercel.app**](potion-shop-app.vercel.app)
+[**Live Demo: potion-shop-app.vercel.app**](https://potion-shop-app.vercel.app)
 
 ---
 
 ## Project Overview
 
-Potion Shop is a solo frontend project built from scratch with HTML, CSS, and vanilla JavaScript.
+Potion Shop is a frontend project built with HTML, CSS, and vanilla JavaScript.
 
-The project was redesigned into an open spellbook interface with a custom fantasy theme, responsive layout, dynamic cart, and checkout flow.
+The project was first built as a mobile app and later redesigned into an open spellbook interface with a custom fantasy theme, responsive layout, dynamic cart, and checkout flow.
 
 ---
 
@@ -49,7 +49,7 @@ potion-shop/
 
 ---
 
-## Technologies
+## Technologies and Concepts
 
 - HTML5
 - CSS3
@@ -64,7 +64,7 @@ potion-shop/
 
 ## Credits
 
-The project was built from scratch based on a Scrimba project prompt and [Figma reference](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1), which provided the initial frontend concept and layout reference. All implementation and subsequent design decisions were developed independently.
+The project was built from scratch based on a Scrimba project prompt and [Figma reference](https://www.figma.com/design/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0-1&t=r8jwmyHIEVtTc5cL-1), which provided the initial frontend concept and layout reference.
 
 Potion icons created by [Magnific - Flaticon](https://www.flaticon.com/free-icons/potion "potion icons").
 
